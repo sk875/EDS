@@ -81,7 +81,7 @@ body {
 }
 
 body.appear {
-  display: red;
+  display: green;
 }
 
 header {
