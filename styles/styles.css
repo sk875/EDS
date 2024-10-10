@@ -251,10 +251,11 @@ main > .section:first-of-type {
 /* section metadata */
 main .section.light,
 main .section.highlight {
-  background-color: green;
+  background-color: yellow;
   margin: 0;
   padding: 40px 0;
 }
+
 .center-bold-large {
     text-align: center;  /* Centers the text */
     font-weight: bold;   /* Makes the text bold */
