@@ -258,5 +258,6 @@ main .section.highlight {
 .center-bold-large {
     text-align: center;  /* Centers the text */
     font-weight: bold;   /* Makes the text bold */
+    text-size= 3 rem;
 }
 
