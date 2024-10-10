@@ -255,6 +255,8 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
-.center-text{
-text-align=center;
+.center-bold-large {
+    text-align: center;  /* Centers the text */
+    font-weight: bold;   /* Makes the text bold */
+    font-size: 24px;     /* Adjust the size as needed */
 }
