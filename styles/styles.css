@@ -82,7 +82,7 @@ body {
 
 body.appear {
   display: block;
-  background-color: lightblue; /* Corrected color value */
+  background-color: #ADD8E6; /* Corrected color value */
 }
 
 header {
